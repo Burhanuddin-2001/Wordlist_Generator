@@ -5,7 +5,7 @@ Copyright © Burhanuddin 2025 — All Rights Reserved.
 You are granted a personal, non-exclusive, non-transferable, revocable license to use, view, and learn from this Software (“the Software”) free of charge, for personal, non-commercial, and educational purposes only. No other rights are granted or implied.
 
 2. Restrictions
-You may not, except with prior *written consent* of the copyright holder:
+You may not, except with prior written consent of the copyright holder:
 - Copy, reproduce, or distribute the Software in any form, in whole or in part, except as may be necessary for personal backup.
 - Modify, adapt, translate, reverse engineer, decompile, disassemble, or create derivative works based on the Software.
 - Sell, sublicense, lease, rent, or otherwise make the Software available to any third party.
