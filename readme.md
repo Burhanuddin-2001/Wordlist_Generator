@@ -89,4 +89,4 @@ python generator.py --file words.txt --processes 4
 
 ## License
 
-This project is licensed under the terms specified in the [LICENSE.TXT](LICENSE.txt) file located in this repository.
+This project is licensed under the terms specified in the [LICENSE.TXT](LICENSE.TXT) file located in this repository.
